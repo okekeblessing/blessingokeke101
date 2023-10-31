@@ -14,6 +14,14 @@ I'm a data analyst, passionate about uncovering insights from data. Here, you'll
 - 💻 Proficient in Python and data analysis libraries (Pandas, Numpy, Matplotlib and Seaborn)
 - 📧 You can reach me at okekeblessing905@gmail.com
 
+## 🧰 Tech Stack
+
+- Python
+- Power BI
+- PostgreSQL
+- Microsoft SQL Server
+- Microsoft Excel
+
 ## ⭐ Featured Projects 
 
 Here are some of my projects
