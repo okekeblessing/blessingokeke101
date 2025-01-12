@@ -1,6 +1,6 @@
 # Hello, I'm Blessing Okeke 👋
 
-I'm a data analyst, passionate about uncovering insights from data. Here, you'll find a collection of my data analysis projects, as well as a bit about myself.
+I'm a data platform engineer. Here, you'll find a collection of my data analysis projects, as well as a bit about myself.
 
 ## 👼 About Me
 
@@ -17,9 +17,12 @@ I'm a data analyst, passionate about uncovering insights from data. Here, you'll
 ## 🧰 Tech Stack
 
 - Python
-- Power BI
 - PostgreSQL
 - Microsoft SQL Server
+- Apache Airflow
+- AWS Tools: S3, Redshift, Athena, EMR, Glue
+- Apache Spark
+- Docker
 - Microsoft Excel
 
 ## ⭐ Featured Projects 
@@ -33,7 +36,7 @@ Feel free to explore my repositories for more data analysis work!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Blessing Okeke] (https://www.linkedin.com/in/blessing-okeke905/)
+- LinkedIn: [Blessing Okeke] (https://www.linkedin.com/in/blessingokeke-/)
 - Twitter: [@blessingokeke_] (https://twitter.com/blessingokeke_)
 - Medium: https://medium.com/@okekeblessing905
 
