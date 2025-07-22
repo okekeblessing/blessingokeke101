@@ -38,7 +38,7 @@ Feel free to explore my repositories for more data analysis work!
 
 - LinkedIn: [Blessing Okeke] (https://www.linkedin.com/in/blessingokeke-/)
 - Twitter: [@blessingokeke_] (https://twitter.com/blessingokeke_)
-- Medium: https://medium.com/@okekeblessing905
+- Medium: https://medium.com/@blessingokeke_
 
 Let's connect and work on exciting data projects together. 😃
 
